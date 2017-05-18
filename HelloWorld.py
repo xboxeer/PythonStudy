@@ -1,2 +1,3 @@
-#!usr/bin/python3
-print("hello world");
+#!/usr/bin/python3
+"""this is my first python program"""
+print("hello world")
