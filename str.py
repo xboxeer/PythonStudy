@@ -1,5 +1,5 @@
 
-"""list test"""
+"""string test"""
 myStr='Na '*4
 myStr=myStr.replace('N','h',2)
 print(myStr[-1:-10:-1])
@@ -10,3 +10,7 @@ myNewStr=('oh ' * 4).split(' ')
 print(','.join(myNewStr))
 print(myNewStr.count('oh'))
 print(myStr.ljust(50))
+a="Duck"
+b="Duck 2"
+c="Duck 3"
+print(a+b+c)
