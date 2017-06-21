@@ -1,0 +1,10 @@
+a=[1,2,3]
+b=a
+c=a.copy()
+d=list(a)
+e=a[:]
+a[0]="surprise"
+print(b)
+print(c)
+print(d)
+print(e)
