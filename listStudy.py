@@ -1,5 +1,5 @@
 """List Study"""
-emp_list=[];
+emp_list=[]
 weekdays_list=["Monday","Tuesday","Wednesday","Thursday","Friday"]
 ctr_list=list()
 print(emp_list)
