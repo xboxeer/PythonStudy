@@ -62,7 +62,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "C:/Users/xboxeer/AppData/Local/Programs/Python/Python36",
+            "pythonPath": "C:/Users/xboxeer/AppData/Local/Programs/Python/Python36/python.exe",
             "program": "${file}",
             "cwd": "",
             "console": "integratedTerminal",
