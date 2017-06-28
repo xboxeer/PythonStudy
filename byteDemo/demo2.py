@@ -1,0 +1,6 @@
+theBytes=bytes(range(0,256))
+theBytesArray=bytearray(range(0,256))
+print("Print Bytes")
+print(theBytes)
+print("Print Byte Array")
+print(theBytesArray)

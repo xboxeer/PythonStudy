@@ -1,0 +1,10 @@
+blist=[1,2,3,255]
+theBytes=bytes(blist)
+print(theBytes)
+theBytesArray=bytearray(blist)
+print(theBytesArray)
+print(type(theBytes))
+print(type(theBytesArray))
+theBytesArray[1]=127
+print(theBytesArray)
+theBytes[1]=127
